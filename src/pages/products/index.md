@@ -1,14 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Clear Effective Solutions
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 'Creating clear effective solutions. '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I enjoy creating clear effective solutions for you using content and design
+  thinking.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -42,7 +39,7 @@ intro:
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    production, roasting, and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
@@ -61,14 +58,16 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: 'Pamela Jemerson, September 2016'
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      I've worked with Shawneda for the past few years. In our work together she
+      has provided me with invaluable feedback and strategies to enhance my
+      newly formed LLC. 
+  - author: Gisela Clark
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Shawneda is a woman with foresight and creativity. During her time at Ace
+      Industries, I was impressed with the new perspective she added to their
+      social media communications. 
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
