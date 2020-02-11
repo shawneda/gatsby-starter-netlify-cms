@@ -15,3 +15,17 @@ Working in customer contact positions for over twenty years across industries fo
 Earning my Masters of Arts in English, Technical Communications equipped me with more real-world tools to flesh out big ideas. Your organization deserves someone passionate about creating clear effective communications aligned with your objectives and valuable to your clients. Your stakeholders want someone working to not only meet but exceed expectations. You found her.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+## What is a Technical Communicator?
+
+Technical communication is a broad field and includes any form of communication that exhibits one or more of the following characteristics:
+
+* Communicatingabout technical or specialized topics, such as computer applications, medical procedures, or environmental regulations.
+* Communicatingby using technology, such as web pages, help files, or social media sites.
+* Providinginstructions about how to do something, regardless of how technical the task is or even if technology is used to create or distribute that communication.
+
+**​[Read the full definition according to the STC.](https://www.stc.org/about-stc/defining-technical-communication/)**
+
+<!--EndFragment-->
