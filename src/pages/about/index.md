@@ -1,19 +1,17 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Shawneda Technical Communicator
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![]()
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+**For me effective technical communication happens at the crossroad of human-computer interactions, design-thinking, empathetic writing, and content design. Building websites and business plans for my friends "for fun" on the weekends occupied my twenties, which led to learning the "ins and outs" of publishing books and integrated marketing communications in my early thirties. Fueled by determination, creativity, and grit I returned to college in 2013 to complete my post-secondary education which resulted in earning a Master of Arts in English, Technical Communication.**
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+<!--StartFragment-->
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Making words dance, sing, and play started as fun for me. Working with businesses, brands, and nonprofit organizations as a technical communicator is a dream come true, part of my purpose, passion, and work that I enjoy. Building websites evolved into creating custom fit, effective brand communication solutions for companies focused on long term efficacy based on serving the customer.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Working in customer contact positions for over twenty years across industries for fortune 500 companies as well as NGOs provided exposure to diverse customer groups. These encounters led to a deep respect for how people want to be treated. Fourteen years in integrated marketing communications afforded me the opportunity to shape the new marketing departments for established and new companies interested in authentic brand communications.
+
+Earning my Masters of Arts in English, Technical Communications equipped me with more real-world tools to flesh out big ideas. Your organization deserves someone passionate about creating clear effective communications aligned with your objectives and valuable to your clients. Your stakeholders want someone working to not only meet but exceed expectations. You found her.
+
+<!--EndFragment-->
