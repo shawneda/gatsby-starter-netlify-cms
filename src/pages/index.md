@@ -3,7 +3,7 @@ templateKey: index-page
 title: Shawneda Crout
 image: /img/ShawnedaCroutColorBlockHeader.png
 heading: 'Creating clear effective solutions with content and design thinking. '
-subheading: Technical communications generalist
+subheading: Technical Communicator
 mainpitch:
   title: 'Why Shawneda '
   description: >+
@@ -28,12 +28,16 @@ intro:
         Create a brand aesthetic that communicates your brand identity and brand
         personality. Choose intentional and strategic use of well-designed
         content for your brand communications.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Technical Communication Generalist
+  description: >-
+    “A jack of all trades is a master of some, but oftentimes better than a
+    master of one.” widely attributed to Benjamin Franklin
+
+
+    More than twenty years of work experience, more than fifteen years in
+    communications, twenty-plus published books, and a master's degree in
+    English, Technical Communication later... storytelling is now my
+    supercharged superpower.
 main:
   heading: Great coffee with no compromises
   description: >
