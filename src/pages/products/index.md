@@ -41,14 +41,18 @@ main:
     tech stack. When you partner with me as your technical communications expert
     we'll choose sustainable, scalable, affordable technology. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: 'Use Simple Words to Explain Complex Things. '
+    image: /img/IGMon852019TechCom.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: >-
+      "Designers have become spirit guides in the tech world, affecting change
+      with the best unicorn skill: empathy." Danielle McClune
+    image: /img/IGMondyDaneilleMcLuneEmpathy.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: >-
+      Write Using Simple Words That Helps Users Get Back on Track When Things Go
+      Wrong. 
+    image: /img/IG9232019UseSimpleWords.png
 testimonials:
   - author: 'Pamela Jemerson, September 2016'
     quote: >-
