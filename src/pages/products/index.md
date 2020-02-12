@@ -79,20 +79,20 @@ pricing:
       items:
         - Content Services
       plan: 'Content '
-      price: '1000 and above '
+      price: 1000+
     - description: >-
-        Build a comprehensive for how to plan, create, distribute, and promote
-        your company. 
+        Build a comprehensive strategy to on how to plan, create, distribute,
+        and promote communications for your company. 
       items:
         - Content Strategy
       plan: Strategy
-      price: '500'
+      price: 500+
     - description: >-
         Customized communications training that can be created for online or
         onsite training or a combination. 
       items:
         - Customized Communications Training
       plan: Training
-      price: '2500'
+      price: 2500+
 ---
 
