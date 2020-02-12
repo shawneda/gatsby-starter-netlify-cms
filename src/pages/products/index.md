@@ -19,29 +19,21 @@ intro:
         provided for print-ready and eBook publication. 
     - image: /img/ShawnedaCroutStrategyProduct.png
       text: >-
-        Find the best human-centered brand communications strategy for your
+        Develop the best human-centered brand communications strategy for your
         company. From content creation to distribution work to find the right
         balance of empathy, education, and entertainment for your audience. 
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting, and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/ShawnedaCroutTraining.png
+      text: >-
+        Give your employees, end-user and/or client the training resources
+        needed to garner results. Provide a clear effective course or guide. 
+    - image: /img/ShawnedaCroutBrainPick.png
+      text: >-
+        Sometimes you need more guidance and help than a blog post or YouTube
+        video provides for your communication need. Now you have the opportunity
+        to "pick my brain" about a complicated task that needs to be made
+        simple. 
+  heading: 'Clear effective solutions using content and design thinking. '
+  description: "Tinkering with things on the computer has been fun for me since I sat in front of an MS-Dos monitor in elementary school. Don't ask if I died from dysentery on the Oregon Trail. I'll never tell \U0001F609.\n\n​Please do enquire about the importance of human first design-thinking when creating content and resources for employees, stakeholders, and customers. Investing in a customized plan to prevent and resolve technical communication challenges distinguishes your brand from every other business in your industry. Keeping your workforce and customer first is how you leverage technology to benefit your staff and clients. Memorable brands use clear effective solutions to benefit everyone involved."
 main:
   heading: Great coffee with no compromises
   description: >
@@ -69,34 +61,13 @@ testimonials:
       Shawneda is a woman with foresight and creativity. During her time at Ace
       Industries, I was impressed with the new perspective she added to their
       social media communications. 
-full_image: /img/products-full-width.jpg
+full_image: /img/ShawnedaBlogHeaderWeebly.png
 pricing:
-  heading: Monthly subscriptions
+  heading: 'Ongoing Services Available '
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    Businesses looking for an affordable technical communication partner are
+    welcome to inquire about quarterly, bimonthly, monthly, and bi weekly
+    content service plans. 
+  plans: []
 ---
 
