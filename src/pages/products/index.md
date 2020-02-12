@@ -35,12 +35,11 @@ intro:
   heading: 'Clear effective solutions using content and design thinking. '
   description: "Tinkering with things on the computer has been fun for me since I sat in front of an MS-Dos monitor in elementary school. Don't ask if I died from dysentery on the Oregon Trail. I'll never tell \U0001F609.\n\n​Please do enquire about the importance of human first design-thinking when creating content and resources for employees, stakeholders, and customers. Investing in a customized plan to prevent and resolve technical communication challenges distinguishes your brand from every other business in your industry. Keeping your workforce and customer first is how you leverage technology to benefit your staff and clients. Memorable brands use clear effective solutions to benefit everyone involved."
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'Clear Effective '
+  description: >-
+    Make the decision to be intentional about your business, brand, or nonprofit
+    tech stack. When you partner with me as your technical communications expert
+    we'll choose sustainable, scalable, affordable technology. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -68,6 +67,14 @@ pricing:
     Businesses looking for an affordable technical communication partner are
     welcome to ask about quarterly, bimonthly, monthly, and bi weekly content
     service plans. 
-  plans: []
+  plans:
+    - description: >-
+        We provide comprehensive full life cycle content services: content
+        design, content creation, content curation, content management, and
+        content promotion. 
+      items:
+        - Content Services
+      plan: 'Content '
+      price: From $1000
 ---
 
