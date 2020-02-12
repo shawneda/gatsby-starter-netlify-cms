@@ -69,12 +69,26 @@ pricing:
     service plans. 
   plans:
     - description: >-
-        We provide comprehensive full life cycle content services: content
+        I provide comprehensive full life cycle content services: content
         design, content creation, content curation, content management, and
         content promotion. 
       items:
         - Content Services
       plan: 'Content '
-      price: From $1000
+      price: '1000 and above '
+    - description: >-
+        Build a comprehensive for how to plan, create, distribute, and promote
+        your company. 
+      items:
+        - Content Strategy
+      plan: Strategy
+      price: '500'
+    - description: >-
+        Customized communications training that can be created for online or
+        onsite training or a combination. 
+      items:
+        - Customized Communications Training
+      plan: Training
+      price: '2500'
 ---
 
