@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Shawneda Crout
-image: /img/ShawnedaCroutHeader.png
+image: /img/ShawnedaCroutColorBlockHeader.png
 heading: 'Creating clear effective solutions with content and design thinking. '
 subheading: Technical communications generalist
 mainpitch:
