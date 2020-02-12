@@ -66,8 +66,8 @@ pricing:
   heading: 'Ongoing Services Available '
   description: >-
     Businesses looking for an affordable technical communication partner are
-    welcome to inquire about quarterly, bimonthly, monthly, and bi weekly
-    content service plans. 
+    welcome to ask about quarterly, bimonthly, monthly, and bi weekly content
+    service plans. 
   plans: []
 ---
 
